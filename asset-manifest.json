@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Sidebar-Modal-Redux-Toolkit/static/css/main.dc813d87.css",
+    "main.js": "/Sidebar-Modal-Redux-Toolkit/static/js/main.cd5f33c7.js",
+    "index.html": "/Sidebar-Modal-Redux-Toolkit/index.html",
+    "main.dc813d87.css.map": "/Sidebar-Modal-Redux-Toolkit/static/css/main.dc813d87.css.map",
+    "main.cd5f33c7.js.map": "/Sidebar-Modal-Redux-Toolkit/static/js/main.cd5f33c7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dc813d87.css",
+    "static/js/main.cd5f33c7.js"
+  ]
+}
